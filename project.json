@@ -2,21 +2,61 @@
   {
     "id": 1,
     "title": "Selen Concept",
-    "slug": "selen-concept",
-    "description": "AI destekli çok amaçlı e-ticaret teması...",
-    "image": "https://via.placeholder.com/600x400?text=Selen+Concept",
+    "description": "AI destekli çok amaçlı e-ticaret teması.",
+    "image": "https://via.placeholder.com/400x250?text=Selen+Concept",
     "technologies": ["React", "Next.js", "Tailwind CSS"],
-    "github": "https://github.com/kadircebi/selen-concept",
-    "demo": "https://selenconcept.vercel.app"
+    "github": "https://github.com/kadirkc/selenconcept",
+    "demo": "https://selenconcept.vercel.app",
+    "slug": "selen-concept"
   },
   {
     "id": 2,
     "title": "NetHareket",
-    "slug": "net-hareket",
-    "description": "Kurumsal web sitesi, yönetim paneli ve içerik modülüyle birlikte tam entegre çözüm.",
-    "image": "https://via.placeholder.com/600x400?text=Net+Hareket",
+    "description": "Kurumsal web sitesi, yönetim paneli ve içerik modülü.",
+    "image": "https://via.placeholder.com/400x250?text=NetHareket",
     "technologies": ["HTML", "CSS", "jQuery", "PHP"],
     "github": "",
-    "demo": "https://nethareket.com.tr"
+    "demo": "https://nethareket.com.tr",
+    "slug": "net-hareket"
+  },
+  {
+    "id": 3,
+    "title": "Kolyecik",
+    "description": "Online takı mağazası için tasarlanmış şık e-ticaret teması.",
+    "image": "https://via.placeholder.com/400x250?text=Kolyecik",
+    "technologies": ["HTML", "CSS", "JavaScript", "PHP"],
+    "github": "",
+    "demo": "https://kolyecik.com.tr",
+    "slug": "kolyecik"
+  },
+  {
+    "id": 4,
+    "title": "Good4You",
+    "description": "Doğal takviyeler ve sağlıklı yaşam ürünleri e-ticaret sitesi.",
+    "image": "https://via.placeholder.com/400x250?text=Good4You",
+    "technologies": ["React", "Bootstrap", "PHP"],
+    "github": "",
+    "demo": "https://good4you.com.tr",
+    "slug": "good4you"
+  },
+  {
+    "id": 5,
+    "title": "Yaser Nakliyat",
+    "description": "Profesyonel taşımacılık ve lojistik çözümleri için kurumsal web.",
+    "image": "https://via.placeholder.com/400x250?text=Yaser+Nakliyat",
+    "technologies": ["HTML", "SCSS", "JavaScript"],
+    "github": "",
+    "demo": "https://yasernakliyat.com",
+    "slug": "yaser-nakliyat"
+  },
+  {
+    "id": 6,
+    "title": "Innova Dijital",
+    "description": "Dijital pazarlama ve yazılım hizmetleri sunan ajans sitesi.",
+    "image": "https://via.placeholder.com/400x250?text=Innova+Dijital",
+    "technologies": ["Vue.js", "Laravel", "Tailwind"],
+    "github": "",
+    "demo": "https://www.innovadijital.com",
+    "slug": "innova-dijital"
   }
 ]
