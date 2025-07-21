@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Selen Concept",
+    "slug": "selen-concept",
+    "description": "AI destekli çok amaçlı e-ticaret teması...",
+    "image": "https://via.placeholder.com/600x400?text=Selen+Concept",
+    "technologies": ["React", "Next.js", "Tailwind CSS"],
+    "github": "https://github.com/kadircebi/selen-concept",
+    "demo": "https://selenconcept.vercel.app"
+  },
+  {
+    "id": 2,
+    "title": "NetHareket",
+    "slug": "net-hareket",
+    "description": "Kurumsal web sitesi, yönetim paneli ve içerik modülüyle birlikte tam entegre çözüm.",
+    "image": "https://via.placeholder.com/600x400?text=Net+Hareket",
+    "technologies": ["HTML", "CSS", "jQuery", "PHP"],
+    "github": "",
+    "demo": "https://nethareket.com.tr"
+  }
+]
